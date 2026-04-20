@@ -64,7 +64,7 @@ export default function About() {
           <div className="relative">
             <div className="relative rounded-2xl lg:rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80"
+                src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
                 alt="Students studying abroad"
                 className="w-full h-full object-cover aspect-[4/3]"
               />
